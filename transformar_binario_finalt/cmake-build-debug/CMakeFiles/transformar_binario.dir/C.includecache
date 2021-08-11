@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Desktop/Projeto de PPP Final/transformar_binario_final/funcoes.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/User/Desktop/Projeto de PPP Final/transformar_binario_final/funcs.c
+funcoes.h
+C:/Users/User/Desktop/Projeto de PPP Final/transformar_binario_final/funcoes.h
+
+C:/Users/User/Desktop/Projeto de PPP Final/transformar_binario_final/main.c
+funcoes.h
+C:/Users/User/Desktop/Projeto de PPP Final/transformar_binario_final/funcoes.h
+
