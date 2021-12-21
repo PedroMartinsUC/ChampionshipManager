@@ -1,2 +1,2 @@
-# ProjetoPPP
-Calendário desportivo com recurso a pilhas com gestão dinâmica de memória
+# Championship Manager
+Sports calendar using dynamic memory technologies (FIFO stack). Build for the course of PPP.
